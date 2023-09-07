@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Cats of the World
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Photographs of all kinds of cats
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "A digital collection composed of 35 images of the cutest cats"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: hbenchik
 
 ##########
 # COLLECTION SETTINGS
@@ -40,10 +40,10 @@ metadata: demo-metadata
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
-# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+# organization-name: "Digital Libraries, Indiana University Bloomington"
+# organization-link: https://jawalsh.github.io/z652-Digital-Libraries-FA23/
+# organization-logo-banner: 
+# organization-logo-nav: 
 
 
 
@@ -53,9 +53,9 @@ metadata: demo-metadata
 # leave these blank or comment out to NOT include google code. See docs/google.md
 #
 # Add your google-analytics-id to automatically add the embed code, e.g. "G-123XXXXXX"
-# google-analytics-id:
+google-analytics-id:
 # to populate a Google CSE add the id, e.g. "002151703305773322890:1pu3smhw1t8"
-# google-cse-id: 
+google-cse-id: 
 
 ##########
 # ROBOTS EXCLUDE
