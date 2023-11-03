@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: monarch-butterflies.jpg
+featured-image: https://www.brandywine.org/sites/default/files/styles/block_img_md/public/2023-03/Amy%20Taracido_45614889_Medium.jpg?itok=0_o9iS9W 
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
