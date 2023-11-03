@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Butterflies in Rare Books from the Lilly Library at Indiana University Bloomington
+title: Butterflies in Rare Books From the Lilly Library at Indiana University Bloomington
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Illustrations of butterflies in rare books from the United Kingdom and the United States
+tagline: Illustrations of Butterflies in Rare Books From the United Kingdom and the United States
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A collection of 30 butterfly images"
+description: "A Collection of 30 Butterfly Images"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: hbenchik
 
