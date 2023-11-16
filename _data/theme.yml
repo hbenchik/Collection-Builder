@@ -24,14 +24,14 @@ browse-buttons: true # true/false, adds previous/next arrows to item pages
 # SUBJECTS PAGE
 #
 subjects-fields: countriesoforigin;butterflycolors 
-subjects-min: 2 
+subjects-min: 1
 subjects-stopwords:
 
 ##########
 # LOCATIONS PAGE
 #
 locations-fields: countriesoforigin
-locations-min: 3 # min size for subject cloud, too many terms = slow load time!
+locations-min: 1 # min size for subject cloud, too many terms = slow load time!
 locations-stopwords: # Moscow;Pullman
 
 ##########
@@ -51,7 +51,7 @@ map-cluster-radius: 25 # size of clusters, from ~ 10 to 80
 # TIMELINE PAGE
 #
 year-navigation: # set years to appear in dropdown nav, leave blank to auto gen
-year-nav-increment: 9 # set increments when auto gen nav years
+year-nav-increment: # set increments when auto gen nav years
 
 ##########
 # DATA 
@@ -68,8 +68,8 @@ metadata-facets-fields: "subject,creator,format"
 # Ignore this section if you are not including any compound objects
 # Note, like other items, child objects will only appear in visualizations if they have the correct metadata (lat long for map; date for timeline)
 # select true below if you'd like your compound object's child objects to appear in any of the pages or features listed
-map-child-objects: true # true / false - if true, and if child item has latitude and longitude, child objects will be displayed on map
-timeline-child-objects: true # true / false - if true, and if child object has date, child objects will appear as thumbnails on timeline page
+map-child-objects: true # false / false - if true, and if child item has latitude and longitude, child objects will be displayed on map
+timeline-child-objects: false # true / false - if true, and if child object has date, child objects will appear as thumbnails on timeline page
 data-child-objects: false # true / false - if true, child objects will appear linked in table on data page
 carousel-child-objects: false # true / false - if true, child objects will appear on homepage carousel
 browse-child-objects: false # true / false - if true, child objects will appear on browse page and child objects' metadata will populate cloud pages like Subjects page and Locations page, as well as featured terms boxes on the home page
