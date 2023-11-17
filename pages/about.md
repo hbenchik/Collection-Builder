@@ -34,6 +34,8 @@ Hannah Benchik, Master of Library Science student at Indiana University in Bloom
 
 ## Acknowledgements
 
+A special thanks goes to the Lilly Library at Indiana University in Bloomington, IN, from where the books containing these images are held and whose staff digitized the images for me.
+
 ## Technical and Metadata Standards
 
 ## Rights
