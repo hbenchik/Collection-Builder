@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://contentgrid.homedepot-static.com/hdus/en_US/DTCCOMNEW/Articles/how-to-attract-butterflies-to-your-garden-2022-step-5.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Website;Rights" %}
+{% include feature/nav-menu.html sections="About the Website;Staff;Acknowledgments;Technical and Metadata Standards;Rights" %}
 
 ## About the Website
 
@@ -27,6 +27,14 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+
+## Staff
+
+Hannah Benchik, Master of Library Science student at Indiana University in Bloomington, IN.
+
+## Acknowledgements
+
+## Technical and Metadata Standards
 
 ## Rights
 
