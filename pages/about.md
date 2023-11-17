@@ -30,5 +30,5 @@ For full details of creating your own collection site, visit [CollectionBuilder 
 
 ## Rights
 
-Permission to publish these images and data has been granted by the Lilly Library at Indiana Unversity in Bloomington, IN. Copyright belongs to the authors of the materials from which the data and images derive, all of which are now in the public domain. For other uses beyond free use, please contact the Lilly Library at Indiana University.
+Permission to publish these images and data has been granted by the Lilly Library at Indiana Unversity in Bloomington, IN. Copyright belongs to the authors of the materials from which the data and images derive, all of which are now in the public domain. For other uses beyond free use, please contact the Lilly Library at Indiana University: https://libraries.indiana.edu/lilly-library 
 
