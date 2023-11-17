@@ -1,5 +1,6 @@
 field,display_name,browse_link,external_link
 title,Title,
+date,Dates,,false
 creator,Creator,
 description,Description,
 location,Location
