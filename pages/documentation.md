@@ -3,7 +3,7 @@ title: Documentation
 layout: about
 permalink: /documentation.html
 ---
-{% include feature/ https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/book-shelves-david-madison.jpg" %}
+{% include feature/jumbotron.html objectid="/ https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/book-shelves-david-madison.jpg" %}
 
 {% include feature/nav-menu.html sections="Documentation" %}
 
