@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://contentgrid.homedepot-static.com/hdus/en_US/DTCCOMNEW/Articles/how-to-attract-butterflies-to-your-garden-2022-step-5.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection" %}
+{% include feature/nav-menu.html sections="About the Website" %}
 
 ## About the Collection
 
