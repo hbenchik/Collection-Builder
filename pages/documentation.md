@@ -5,7 +5,7 @@ permalink: /documentation.html
 ---
 {% include feature/jumbotron.html objectid="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/book-shelves-david-madison.jpg" %}
 
-{% include feature/nav-menu.html sections="Documentation;Rights" %}
+{% include feature/nav-menu.html sections="Documentation" %}
 
 The digital collection consists of images and descriptions of 30 different species of butterflies from North America and the United Kingdom, which derive from three different books, all of which can be found in rare books from the Lilly Library at Indiana University in Bloomington, IN. These three books and their authors are as follows:
 
