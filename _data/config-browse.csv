@@ -1,5 +1,6 @@
 field,display_name,btn,hidden,sort_name
 creator,Creator,,,
+booktitle,Book Title,true
 butterflycolors,Wing Colors,true
 countriesoforigin,Countries of Origin,true
-scientificname, Scientific Name, true
+scientificname,Scientific Name, true
