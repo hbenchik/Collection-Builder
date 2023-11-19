@@ -38,6 +38,8 @@ A special thanks goes to the Lilly Library at Indiana University in Bloomington,
 
 ## Technical and Metadata Standards
 
+The technical and metadata standards contained in this collection were modeled after a metadata application profile built for this project. This originally included 15 elements, all of which were mapped to their corresponding Dublin Core elements. Other technical and metadata standards include use of Library of Congress Subject Headings for the countries of origin element, matching the capitalization of the book titles to those found in the Lilly Library's catalog, the inclusion of DCMI vocabulary for the type element, and the use of ISO 639-2 Codes for the Representation of Names and Lanuages for the language element. Additionally, this collection implements various technical elements from Collection Builder Docs, including the creation of addition pages, liquid elements, and the use of an interactive map to show the book's locations.
+
 ## Rights
 
 Permission to publish these images and data has been granted by the Lilly Library at Indiana Unversity in Bloomington, IN. Copyright belongs to the authors of the materials from which the data and images derive, all of which are now in the public domain. For other uses beyond free use, please contact the Lilly Library at Indiana University.
