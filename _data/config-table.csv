@@ -1,6 +1,7 @@
 field,display_name
 title,Common Name
-creator,Author
+booktitle,Book Title
+creator,Book Author
 countriesoforigin,Origin
 description,Description
 butterflycolors,Colors
