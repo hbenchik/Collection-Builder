@@ -1,5 +1,5 @@
 field,index,display
-butterflycolor,true,true
+butterflycolors,true,true
 scientificname,true,true
 location,true,true
 countriesoforigin,true,true
