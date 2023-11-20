@@ -7,6 +7,8 @@ permalink: /documentation.html
 
 {% include feature/nav-menu.html sections="Documentation" %}
 
+{% include feature/image.html objectid="coll027" %}
+
 ## Documentation
 
 The digital collection consists of images and descriptions of 30 different species of butterflies from North America and the United Kingdom, which derive from three different rare books, all of which can be found in Lilly Library at Indiana University in Bloomington, IN. These three books and their authors are as follows:
