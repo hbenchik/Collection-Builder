@@ -5,4 +5,5 @@ creator,true,true
 booktitle,true,true
 description,true,true
 subject,true,true
-location,true,false
+location,true,true
+countriesoforigin,true,true
