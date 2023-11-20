@@ -1,9 +1,5 @@
 field,index,display
-title,true,true
-date,true,true
-creator,true,true
-booktitle,true,true
-description,true,true
-subject,true,true
+butterflycolor,true,true
+scientificname,true,true
 location,true,true
 countriesoforigin,true,true
