@@ -12,6 +12,8 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Website;Staff;Acknowledgments;Technical and Metadata Standards;Rights" %}
 
+{% include feature/image.html objectid="coll_028" %}
+
 
 ## About the Website
 
